@@ -14,7 +14,7 @@ partnerRouter.route('/')
     res.end(`Will add the partner: ${req.body.name} with description: ${req.body.description}`)
 })
 .put((req, res) => {
-    res.statusCode = 403;
+    res.statusCode = 403; 
     res.end('PUT operation not supported on /partners')
 })
 .delete((req, res) => {
