@@ -1,0 +1,8 @@
+{
+    "username": "admin",
+    "password": "password",
+    "firstname": "Spike",
+    "lastname": "Spiegel"
+}
+
+{"firstname": "roger", "lastname": "Ma", "username": "testing", "password": "password"} 
